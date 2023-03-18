@@ -8,7 +8,7 @@ Hi there! I'm Rahul, a self-taught data analyst from India. With a background in
 - Exploratory data analysis
 
 ### 🛠️ My Tools
-- Databases: SQL(PostgreSQL, Google BigQuery), Spreadsheets
+- Databases: SQL(MySQL, PostgreSQL, Google BigQuery), Spreadsheets
 - Python: NumPy, Pandas
 - Visualisation: Tableau, Matplotlib, Seaborn, Plotly, ggplot2
 - Mathematics: Probability, Statistics
