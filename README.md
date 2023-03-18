@@ -1,7 +1,19 @@
 
-## :woman_technologist: Hi there!
-I am a civil engineer turned data analyst who is passionate about data science and machine learning uplift in the public & private sector. My repositories feature data analysis projects, with a focus on using spreadsheets, bigquerry, R and Python for data analysis, statistical modelling and machine learning.
+## Introducing Myself 🙋🏻‍♀️
+Hi there! I'm Rahul, a self-taught data analyst from India. With a background in civil engineering, I transitioned to data in 2022 and have been teaching myself SQL, Python, and Tableau ever since.
 
-## :woman_technologist: Stack
- ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+### 💡 My Skills
+- Data preparation, data validation
+- Dashboard design and reporting
+- Exploratory data analysis
 
+### 🛠️ My Tools
+- Databases: SQL(PostgreSQL, Google BigQuery), Spreadsheets
+- Python: NumPy, Pandas
+- Visualisation: Tableau, Matplotlib, Seaborn, Plotly, ggplot2
+- Mathematics: Probability, Statistics
+
+### 🙌🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/rahul-sarma-a49435210/)
+- [Medium](https://medium.com/@rahul.x)
+- [Kaggle](https://www.kaggle.com/rahulk1029)
