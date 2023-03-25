@@ -1,5 +1,5 @@
 
-## Introducing Myself 🙋🏻‍♀️
+## Introducing Myself 👋🏽
 Hi there! I'm Rahul, a self-taught data analyst from India. With a background in civil engineering, I transitioned to data in 2022 and have been teaching myself SQL, Python, and Tableau ever since.
 
 ### 💡 My Skills
