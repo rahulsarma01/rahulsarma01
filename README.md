@@ -16,4 +16,3 @@ Hi there! I'm Rahul, a self-taught data analyst from India. With a background in
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/rahul-sarma-a49435210/)
 - [Medium](https://medium.com/@rahul.x)
-- [Kaggle](https://www.kaggle.com/rahulk1029)
